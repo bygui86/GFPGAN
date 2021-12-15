@@ -1,0 +1,9 @@
+
+https://docs.conda.io/en/latest/miniconda.html
+
+conda config --set auto_activate_base false
+
+conda activate base
+conda activate image
+
+conda deactivate
